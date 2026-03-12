@@ -141,7 +141,7 @@ Sou Desenvolvedor Full Stack, especializado em **Python** e **React**, com foco 
        style="border-radius:50%; margin:10px;">
 </a>
 
-**Estagiário em Desenvolvimento**  
+**Estagiário de Desenvolvimento**  
 [**Itaipu Parquetec**](https://www.itaipuparquetec.org.br/) • janeiro de 2021 - janeiro de 2022  
 **Linguagens & Tecnologias**: `Node`, `React`, `PostgreSQL`, `Python`, `QGIS`  
 
