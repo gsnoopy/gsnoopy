@@ -77,7 +77,7 @@ Sou Desenvolvedor Full Stack, especializado em **Python** e **React**, com foco 
        style="border-radius:50%; margin:10px;">
 </a>
 
-**Fundador e Desenvolvedor Backend**  
+**Fundador & Desenvolvedor Backend**  
 [**Em breve**](https://github.com/gsnoopy) • março de 2026 - atual  
 **Linguagens & Tecnologias**: `FastAPI`, `PostgreSQL`, `AWS`, `React`, `Node`  
 
