@@ -62,7 +62,6 @@ Sou Desenvolvedor Full Stack, especializado em **Python** e **React**, com foco 
 <img src="https://img.shields.io/badge/ApplePay-000000.svg?style=for-the-badge&logo=apple-pay"/>
 <img src="https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude"/>
 <img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama"/>
 
 </p>
