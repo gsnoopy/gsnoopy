@@ -1,12 +1,12 @@
-Sou Desenvolvedor Full Stack, especializado em **Python** e **React**, com foco na construção de aplicações web modernas, escaláveis e bem estruturadas. Tenho experiência no desenvolvimento de APIs, sistemas distribuídos e interfaces eficientes, sempre buscando boas práticas de arquitetura, performance e qualidade de código.
+manda qualquer coisa ai que eu resolvo
 
 </p>
 
-### 🎓 Formação Acadêmica
+### Formação Acadêmica
 
 - **Bacharel em Ciência da Computação** pela Universidade Estadual do Oeste do Paraná  
 - **Pós-Graduado em Desenvolvimento Full Stack** pela FIAP  
-- **Mestrando em Engenharia Elétrica e Ciência da Computação** pela Universidade Estadual do Oeste do Paraná
+- **Mestrando em Engenharia Elétrica e Computação** pela Universidade Estadual do Oeste do Paraná
 
 ---
 
